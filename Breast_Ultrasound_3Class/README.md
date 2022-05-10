@@ -1,3 +1,4 @@
-Contains images belonging to 3 classes: benign, malignant and normal. Each folder contains .png images belonging to that particular class and their corresponding masks.
-
-More details can be found in the [paper](https://www.sciencedirect.com/science/article/pii/S2352340919312181) and in [kaggle](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
+- Contains images belonging to 3 classes: benign, malignant and normal. 
+- benign, malignant, and normal folder contains 437, 210, and 133 images respectively along with their corresponding masks. 
+- Images are of .png file extension.
+- Images are collected from [kaggle](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset) and more details can be found in [paper](https://www.sciencedirect.com/science/article/pii/S2352340919312181)
