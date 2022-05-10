@@ -1,3 +1,4 @@
 - Contains images belonging to two classes: Benign and Malignant. 
 - Benign folder contains 100 benign breast ultrasound images and Malignant folder contains 150 malignant breast ultrasound images. 
 - All images are of .bmp file extension.
+- Images are collceted from the following [link](https://data.mendeley.com/datasets/wmy84gzngw/1).
