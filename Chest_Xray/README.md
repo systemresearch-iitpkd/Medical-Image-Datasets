@@ -1,4 +1,5 @@
-There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
-Images folder consists of 3 folders: test,train and val each containing subfolders normal and pneumonia.
-
-Images are taken from [kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- Contains images belonging to 2 classes: Pneumonia and Normal.
+- There are 5863 X-Ray images of chest in total in the images folder which is subdivided into test, train and val folders.
+- Each subfolder contains two separate folders containg images belonging to pneumonia class and normal class respectively.
+- Images are of JPEG file extension.
+- Images are taken from [kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
